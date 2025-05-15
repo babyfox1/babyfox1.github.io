@@ -66440,7 +66440,7 @@ A.a2L.prototype={
 $2(a,b){var s,r,q,p="\u041f\u0435\u0441\u043a\u043e\u0441\u0442\u0440\u0443\u0439\u043d\u0430\u044f \u043e\u0447\u0438\u0441\u0442\u043a\u0430 + \u0445\u043e\u043b\u043e\u0434\u043d\u043e\u0435 \u0446\u0438\u043d\u043a\u043e\u0432\u0430\u043d\u0438\u0435",o=null,n=b.b,m=n<600,l=n<1000
 if(m)s=2
 else s=l?3:4
-if(m)r=0.7
+if(m)r=0.6
 else r=l?0.95:1.1
 q=m?10:15
 n=this.a
